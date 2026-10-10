@@ -18,7 +18,7 @@ Sign in with the login MobiSoft gave you. Your shop's data downloads automatical
 
 ## Updates
 
-From v0.1.16 the app updates itself. When a new version is published here, an
+From v1.0 the app updates itself. When a new version is published here, an
 **"Update to vX"** button appears in the app's top bar. Click it when it suits you,
 not in the middle of a sale. Every update is signed, and the app refuses any file that isn't.
 
